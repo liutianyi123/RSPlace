@@ -1,4 +1,8 @@
-# RSPlace: Rotation Sensing Macro Placement via Bidirectional Tree Expansion
+# RSPlace
+
+**RSPlace: Rotation Sensing Macro Placement via Bidirectional Tree Expansion**
+
+*Published as a conference paper at **AAAI 2026***
 
 Tianyi Liu, Yaxin Xu, Lin Geng, Ningzhong Liu, Han Sun, Yu Wang
 
